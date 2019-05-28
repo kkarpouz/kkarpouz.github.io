@@ -31,11 +31,12 @@ figcaption.captions{
 }
 
 a{
-  color: green;
+  color: yellow;
 }
 
 h1 {
   color: var(--main-letter-color);
+  font-size: 50px;
 }
 
 h2 {
@@ -45,9 +46,11 @@ h2 {
 p {
   font-weight: normal;
   color: var(--main-letter-color);
+  font-size: 20px;
 }
 
 ul {
   font-weight: normal;
   color: var(--main-letter-color);
+  font-size: 20px;
 }
