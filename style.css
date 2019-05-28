@@ -19,6 +19,18 @@ img.profile_pic {
   height: 180px;
  }
 
+
+p.about_me {
+  width: 600px; 
+  border: 1px solid #000000;
+  /*overflow: hidden;
+  text-overflow: clip;*/ 
+}
+
+figcaption.captions{
+  color: var(--main-letter-color);
+}
+
 a{
   color: green;
 }
