@@ -50,6 +50,12 @@ p {
   font-size: 20px;
 }
 
+form {
+  font-weight: normal;
+  color: var(--main-letter-color);
+  font-size: 20px;
+}
+
 ul {
   font-weight: normal;
   color: var(--main-letter-color);
